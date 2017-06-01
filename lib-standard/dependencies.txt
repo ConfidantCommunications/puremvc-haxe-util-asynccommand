@@ -1,4 +1,0 @@
-* https://github.com/PureMVC/puremvc-haxe-standard-framework.git
-
-Notes
-Supports both Haxe 2 and 3
