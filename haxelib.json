@@ -1,0 +1,14 @@
+{
+	"name": "puremvc-asynccommand-standard",
+  	"license": "BSD",
+	"tags": ["framework", "puremvc", "mvc","cross","cross-platform","flash","html5","ios","async","command"],
+	"description": "The AsyncCommand utility offers a solution to the problem of executing a series of commands each of which may need to complete one or more asynchronous operations before the next command is executed. This is for the Standard version of PureMVC.",
+	"contributors": ["ConfidantCommunications"],
+	"classPath":"src-standard/",
+	"releasenote": "Initial release on Haxelib. ",
+	"version": "1.2.0",
+	"url": "https://github.com/PureMVC/puremvc-haxe-util-asynccommand",
+	"dependencies": {
+    	"puremvc-standard": ""
+	}
+}
